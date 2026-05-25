@@ -15,7 +15,7 @@ An ahk base macro for Slime RNG
 1. Have AutoHotkey v2 installed.
 2. You must have the teleporter to use the auto buy zone feature.
 
-# Note
+# Notes
 1. Turn off any cutscene settings for best effect, things like slime cutscene and fruit cutscene can be turned off in the game's settings. Also use the lowest graphic settings if you want to consume less resources.
 
 
