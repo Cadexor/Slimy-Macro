@@ -1,6 +1,11 @@
 # Slimy-Macro
 An ahk base macro for Slime RNG
 
+# Requirements
+1. Have AutoHotkey v2 installed.
+2. You must have the teleporter to use the auto buy zone feature.
+
+
 # Instrutions
 1. Download the zip file.
 2. Extract the compressed folder.
