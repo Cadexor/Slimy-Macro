@@ -11,7 +11,7 @@ An ahk base macro for Slime RNG
 2. You must have the teleporter to use the auto buy zone feature.
 
 
-# Instrutions
+# Instructions
 1. Download the zip file.
 2. Extract the compressed folder.
 3. Run the "SlimyMacro" file.
