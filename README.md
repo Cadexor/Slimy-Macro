@@ -1,7 +1,7 @@
 # Slimy-Macro
 An ahk base macro for Slime RNG
 
-#Instrutions
+# Instrutions
 1. Download the zip file.
 2. Extract the compressed folder.
 3. Run the "SlimyMacro" file.
