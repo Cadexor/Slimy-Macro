@@ -10,6 +10,7 @@ An ahk base macro for Slime RNG
 1. Auto rebirth
 2. Auto buy next zone
 3. Auto use the slime gun
+4. Auto equip best
 
 # Requirements
 1. Have AutoHotkey v2 installed.
