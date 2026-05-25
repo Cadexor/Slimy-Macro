@@ -1,6 +1,11 @@
 # Slimy-Macro
 An ahk base macro for Slime RNG
 
+# Features
+1. Auto rebirth
+2. Auto buy next zone
+3. Auto use the slime gun
+
 # Requirements
 1. Have AutoHotkey v2 installed.
 2. You must have the teleporter to use the auto buy zone feature.
